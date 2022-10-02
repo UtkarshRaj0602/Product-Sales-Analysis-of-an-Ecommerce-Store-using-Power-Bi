@@ -1,3 +1,4 @@
+![Page 1 ](https://user-images.githubusercontent.com/65725785/193461102-c23d6196-5f7c-40a0-97a5-f843adafa8f0.png)
 # Product-Sales-Analysis-of-an-Ecommerce-Store-using-Power-Bi
 
 
@@ -16,3 +17,9 @@ In this project a sample excel based dataset sheet [which consisted of 50k rows 
 5. Two seperate pie charts were made which showed the total sales of products based on the segments and category of the products.
 
 6. At last, a chart was made which showed the top most profitable customers to the company based on their products purchase margin.
+
+The image file as well as the Power BI template file has been attached in this respository.
+
+
+
+![Page 2](https://user-images.githubusercontent.com/65725785/193461116-0239b66c-3fde-412c-8dd6-8fe65d00daa6.png)
